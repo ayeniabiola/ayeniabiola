@@ -1,16 +1,38 @@
-## Hi there 👋
+Hi, I'm Abiola Ayeni 
 
-<!--
-**ayeniabiola/ayeniabiola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Emerging AI & Data Professional | Python | SQL | Machine Learning
 
-Here are some ideas to get you started:
+I am building my skills in Python, SQL, Mathematics, Machine Learning and Data Analysis, with a strong interest in using data to solve practical problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Technical Skills
+
+• Python
+• SQL
+• Pandas
+• NumPy
+• Matplotlib
+• Scikit Learn
+• Machine Learning
+• Data Analysis
+
+ Featured Projects
+
+🔹 Iris Flower Classification
+Classification project using Scikit Learn Pipeline, StandardScaler and Logistic Regression.
+
+🔹 California Housing Regression
+Regression project using Scikit Learn Pipeline, StandardScaler and Linear Regression.
+
+🔹 Breast Cancer Classification
+Classification project using Logistic Regression and Decision Tree with Pipeline.
+
+ Currently Learning
+
+Machine Learning and Deep Learning, while strengthening my Python, SQL and mathematical foundations.
+
+ Connect With Me
+
+LinkedIn: https://www.linkedin.com/in/AbiolaMaryAyeni
+
+
+
